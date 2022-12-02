@@ -119,7 +119,7 @@ Read this before you start messing up with your edits
 How To Deploy 👉
 <a href="https://youtu.be/63K9xkKMBoo"><img alt="YouTube" src="https://img.shields.io/badge/Video-%22B1B17.svg?&logo=youtube&logoColor=white"></a>
 
-<details><summary>Deploy To Heroku</summary>
+<details><summary>Deploy To Koyeb</summary>
 <p>
 <br>
 <a href="https://app.koyeb.com/deploy?template=https://github.com/PR0FESS0R-99/Midukki-RoBoT">
@@ -147,3 +147,4 @@ How To Deploy 👉
 </h1>
 
 <img align="center" width="50%" src="https://gpvc.arturio.dev/Midukki-RoboT" alt="Profile views" />
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=https://github.com/Albino233/Midukki-RoBoT&branch=koyeb&name=autofilterbot)
