@@ -123,7 +123,7 @@ How To Deploy 👉
 <p>
 <br>
 <a href="https://heroku.com/deploy?template=https://github.com/PR0FESS0R-99/Midukki-RoBoT">
-  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+  <img src="https://www.koyeb.com/static/images/deploy/button.svg">
 </a>
 </p>
 </details>
